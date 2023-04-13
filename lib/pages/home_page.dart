@@ -23,6 +23,7 @@ class _HomePageState extends State<HomePage> {
               "User",
               style: TextStyle(color: Colors.red, fontSize: 26),
             ),
+            SizedBox(width: 10,),
             Text(
               "Interface",
               style: TextStyle(color: Colors.green, fontSize: 26),
